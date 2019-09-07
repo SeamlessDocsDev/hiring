@@ -9,6 +9,8 @@ Create a **single** ZIP file named `{yourname}-{role}.zip`. The ZIP should conta
 1. One folder containing the files for your technical test and any assets.
 2. A single markdown file with your answers to the technical questions.
 
+Pleease email ZIP file to your recruiter or contact at SeamlessDocs. We recommend confirming receipt in a separate email.
+
 ## Techincal Test
 
 ### User Story
